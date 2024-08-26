@@ -163,7 +163,8 @@ To add a connection in Airflow for PostgreSQL, follow these steps:
 
    - **Conn Id**: `postgres_air_quality`
    - **Conn Type**: `Postgres`
-   - **Host**: `bitnami_airflow`
+   - **Databse**: `bitnami_airflow`
+   - **Host**: `airflow-release-postgresql.default.svc.cluster.local`
    - **Schema**: *(leave this blank unless you have a specific schema to connect to)*
    - **Login**: `bn_airflow`
    - **Password**: 
