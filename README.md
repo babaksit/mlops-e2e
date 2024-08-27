@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This project is the final project of part [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main).
+This project is the final project of [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main).
 
 The **MLOps E2E** project is designed to demonstrate a comprehensive end-to-end machine learning operations (MLOps) pipeline, focusing on the deployment, monitoring, and automation of machine learning models. The project incorporates various tools and frameworks, including Kubernetes, Kubeflow, and Helm, to manage and orchestrate machine learning workflows.
 
