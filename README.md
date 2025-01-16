@@ -1,4 +1,4 @@
-# mlops-e2e
+# mlops-e2e-pipeline
 
 ### Project Overview
 
